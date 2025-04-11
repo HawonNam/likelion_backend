@@ -8,7 +8,7 @@
 
 | 생성 전 | 생성 후 |
 |---------|----------|
-| ![Create Before](결과확인/create_before.jpg) | ![Create After](결과확인/create_after.jpg) |
+| ![Create Before](결과확인/create_before.png) | ![Create After](결과확인/create_after.png) |
 
 ---
 
@@ -16,7 +16,7 @@
 
 | 수정 전 | 수정 후 |
 |---------|----------|
-| ![Update Before](결과확인/update_before.jpg) | ![Update After](결과확인/update_after.jpg) |
+| ![Update Before](결과확인/update_before.png) | ![Update After](결과확인/update_after.png) |
 
 ---
 
@@ -24,4 +24,4 @@
 
 | 삭제 전 | 삭제 후 |
 |---------|----------|
-| ![Delete Before](결과확인/delete_before.jpg) | ![Delete After](결과확인/delete_after.jpg) |
+| ![Delete Before](결과확인/delete_before.png) | ![Delete After](결과확인/delete_after.png) |
